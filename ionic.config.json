@@ -1,0 +1,7 @@
+{
+  "name": "ionic-petzocial",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
